@@ -1,0 +1,9 @@
+library(shiny)
+
+shinyUI(fluidPage(
+  titlePanel(""),
+  
+  mainPanel(
+    plotOutput(outID",width=100,height=600)
+  )
+))
