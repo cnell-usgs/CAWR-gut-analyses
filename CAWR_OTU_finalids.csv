@@ -1,0 +1,325 @@
+"","ID","OTU","Taxa.ID","Taxa.Order","Taxa.Family","BOLD.BIN","PHYLUM","CLASS","ORDER","FAMILY","GENUS","SPECIES","Similarity.BOLD","Accession.of.best.match","Sequence.identity....","Taxonomy.of.best.match","notes","reso","Taxa.ID.98"
+"1",">denovo189 S51_12095","OTU189","Acleris","Lepidoptera","Tortricidae","AAB0267","Arthropoda","Insecta","Lepidoptera","Tortricidae","Acleris","curvalana",98.88,"",NA,"","","genus","Acleris"
+"2",">denovo127 S8_20500","OTU127","Acrididae","Orthoptera","Acrididae","BOLD:AAU6108","Arthropoda","Insecta","Orthoptera","Acrididae","Chloealtis","conspersa",94.84,"",NA,"","","family",NA
+"3",">denovo13 S9_36629","OTU13","Acrididae","Orthoptera","Acrididae","BOLD:AAU6108","Arthropoda","Insecta","Orthoptera","Acrididae","Chloealtis","conspersa",92.26,"",NA,"","","family",NA
+"4",">denovo289 S9_21762","OTU289","Acrididae","Orthoptera","Acrididae","BOLD:AAU6108","Arthropoda","Insecta","Orthoptera","Acrididae","Chloealtis","conspersa",91.95,"",NA,"","","family",NA
+"5",">denovo297 S9_37680","OTU297","Acrididae","Orthoptera","Acrididae","BOLD:AAU6108","Arthropoda","Insecta","Orthoptera","Acrididae","Chloealtis","conspersa",94.08,"",NA,"","","family",NA
+"6",">denovo195 S16_36583","OTU195","Acrolophus","Lepidoptera","Tineidae","","Arthropoda","Insecta","Lepidoptera","Tineidae","Acrolophus","kearfotti",98.84,"",NA,"","","genus","Acrolophus"
+"7",">denovo299 S16_22527","OTU299","Acrolophus","Lepidoptera","Tineidae","","Arthropoda","Insecta","Lepidoptera","Tineidae","Acrolophus","kearfotti",96.79,"",NA,"","","genus",NA
+"8",">denovo130 S5_68157","OTU130","Anopheles","Diptera","Culicidae","","Arthropoda","Insecta","Diptera","Culicidae","Anopheles","atroparvus",95.06,"",NA,"","","genus",NA
+"9",">denovo271 S42_50069","OTU271","Anopheles","Diptera","Culicidae","","Arthropoda","Insecta","Diptera","Culicidae","Anopheles","atroparvus",95,"AY131112",86,"Arthropoda, Insecta, Coleptera","","genus",NA
+"10",">denovo176 S27_60703","OTU176","Anthonomus","Coleoptera","Curculionidae","ACD4151","Arthropoda","Insecta","Coleoptera","Curculionidae","Anthonomus","grandis",97.62,"",NA,"","","genus",NA
+"11",">denovo301 S48_68294","OTU301","Anthonomus","Coleoptera","Curculionidae","BOLD:ACD4151","Arthropoda","Insecta","Coleoptera","Curculionidae","Anthonomus","grandis",97.62,"",NA,"","","genus",NA
+"12",">denovo95 S16_26739","OTU95","Anthonomus","Coleoptera","Curculionidae","BOLD:ACD4149","Arthropoda","Insecta","Coleoptera","Curculionidae","Anthonomus","grandis",98.81,"",NA,"","","genus","Anthonomus"
+"13",">denovo145 S11_278","OTU145","apicifer","Diptera","Tachinidae","BOLD:ACF4291","Arthropoda","Insecta","Diptera","Tachinidae","Archytas","apicifer",99.35,"",NA,"","","species","apicifer"
+"14",">denovo154 S51_25280","OTU154","Apterogenum","Lepidoptera","Noctuidae","AAD1478","Arthropoda","Insecta","Lepidoptera","Noctuidae","Apterogenum","ypsillon",96.1,"",NA,"","","genus",NA
+"15",">denovo108 S11_40584","OTU108","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",97.42,"KF930923",92,"SAME","","genus",NA
+"16",">denovo11 S43_46128","OTU11","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"KF930923.1",94,"same","","genus","Arachnis"
+"17",">denovo116 S58_12656","OTU116","Arachnis","Lepidoptera","Erebidae","BOLD:AAB5410","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",96.71,"KF930923.1",93,"same","","genus",NA
+"18",">denovo152 S11_7261","OTU152","Arachnis","Lepidoptera","Erebidae","BOLD:ADA6106","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",96.15,"",NA,"","","genus",NA
+"19",">denovo163 S33_8028","OTU163","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.46,"",NA,"Arthropoda, Insecta, Diptera, Chloropidae","","genus","Arachnis"
+"20",">denovo170 S9_26892","OTU170","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"",NA,"","","genus","Arachnis"
+"21",">denovo193 S33_21270","OTU193","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"",NA,"","","genus","Arachnis"
+"22",">denovo229 S58_46203","OTU229","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",97.18,"",NA,"","","genus",NA
+"23",">denovo234 S16_24623","OTU234","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.69,"",NA,"arthropoda, insecta, lepidoptera, erebidae, arachnis, picta","","genus","Arachnis"
+"24",">denovo277 S27_15784","OTU277","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",95.51,"",NA,"","","genus",NA
+"25",">denovo305 S11_45347","OTU305","Arachnis","Lepidoptera","Erebidae","BOLD:AAB0272","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"",NA,"","","genus","Arachnis"
+"26",">denovo308 S11_6012","OTU308","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",100,"",NA,"","","genus","Arachnis"
+"27",">denovo4 S11_56888","OTU4","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",97.44,"",NA,"","","genus",NA
+"28",">denovo79 S16_40962","OTU79","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",96.79,"",NA,"","","genus",NA
+"29",">denovo85 S48_27870","OTU85","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.7,"",NA,"","","genus","Arachnis"
+"30",">denovo96 S11_22359","OTU96","Arachnis","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",97.44,"",NA,"","","genus",NA
+"31",">denovo248 S51_34845","OTU248","Araneae","Araneae","None","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",92,"",NA,"","","order",NA
+"32",">denovo61 S51_66962","OTU61","Araneae","Araneae","None","","Arthropoda","Insecta","Trichoptera","Hydropsychidae","Arctopsyche","XZ sp. CN5",58.02,"KP975943",90,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, turbinata","","order",NA
+"33",">denovo1 S51_34230","OTU1","Araneidae","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",94.67,"FJ525319.1",91,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, Cyclosa turbinata","","family",NA
+"34",">denovo113 S33_66489","OTU113","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",93.64,"KP975943.1",91,"same","","family",NA
+"35",">denovo125 S44_18150","OTU125","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",93.62,"",NA,"","","family",NA
+"36",">denovo239 S51_24685","OTU239","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",93.92,"",NA,"","","family",NA
+"37",">denovo257 S51_66436","OTU257","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",94,"",NA,"","","family",NA
+"38",">denovo286 S51_7063","OTU286","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",93.06,"",NA,"","","family",NA
+"39",">denovo291 S51_16904","OTU291","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",94,"",NA,"","","family",NA
+"40",">denovo41 S51_25243","OTU41","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",94.44,"",NA,"","","family",NA
+"41",">denovo67 S51_3678","OTU67","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",93.88,"",NA,"","","family",NA
+"42",">denovo69 S51_34956","OTU69","Araneidae","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",94.29,"",NA,"","","family",NA
+"43",">denovo107 S12_37719","OTU107","Armadillidiidae","Isopoda","Armadillidiidae","","Arthropoda","Insecta","Diptera","Mycetophilidae","","",94.87,"KR424609",91,"Arthropoda, Malacostraca, Isopoda, Armadillidiidae, Armadillidium","","family",NA
+"44",">denovo196 S3_56745","OTU196","Armadillidiidae","Isopoda","Armadillidiidae","","","","","","","",NA,"DQ889079",96,"Arthropoda, Malacostraca, Isopoda, Armadillidiidae, Armadillidium","","family",NA
+"45",">denovo199 S9_26001","OTU199","Armadillidium","Isopoda","Armadillidiidae","AAH4108","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","vulgare",97.4,"",NA,"","","genus",NA
+"46",">denovo263 S7_170","OTU263","Armadillidium","Isopoda","Armadillidiidae","BOLD:AAH4108","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","sp.",100,"",NA,"","","genus","Armadillidium"
+"47",">denovo284 S3_43910","OTU284","Armadillidium","Isopoda","Armadillidiidae","BOLD:AAH4108","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","sp.",95.48,"",NA,"","","genus",NA
+"48",">denovo313 S3_5350","OTU313","Armadillidium","Isopoda","Armadillidiidae","","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","sp.",100,"",NA,"","","genus","Armadillidium"
+"49",">denovo70 S3_67299","OTU70","Armadillidium","Isopoda","Armadillidiidae","BOLD:AAH4108","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","sp.",98.08,"",NA,"","","genus","Armadillidium"
+"50",">denovo73 S5_24594","OTU73","Armadillidium","Isopoda","Armadillidiidae","","Arthropoda","Malacostraca","Isopoda","Armadillidiidae","Armadillidium","sp.",81.33,"DQ889079",97,"Arthropoda, Malacostraca, Isopoda, Armadillidum sp","","genus",NA
+"51",">denovo232 S15_13847","OTU232","avidum","Diptera","Syrphidae","","Arthropoda","Insecta","Diptera","Syrphidae","Copestylum","avidum",99.36,"",NA,"","","species","avidum"
+"52",">denovo121 S16_37101","OTU121","battoides","Lepidoptera","Lycaenidae","","Arthropoda","Insecta","Lepidoptera","Lycaenidae","Euphilotes","battoides",99.35,"",NA,"","","species","battoides"
+"53",">denovo173 S4_9904","OTU173","Bombyliidae","Diptera","Bombyliidae","","","","","","","",NA,"KM571034.1",95,"Arthropoda, Insecta, Diptera, Bombyllidae","","family",NA
+"54",">denovo44 S4_10960","OTU44","Bombyliidae","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","","",96.08,"",NA,"","","family",NA
+"55",">denovo151 S4_9","OTU151","Bombylius","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","Bombylius","major",97.62,"",NA,"","","genus",NA
+"56",">denovo211 S4_23891","OTU211","Bombylius","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","Bombylius","major",97.62,"",NA,"","","genus",NA
+"57",">denovo238 S4_23861","OTU238","Bombylius","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","Bombylius","major",96.03,"",NA,"","","genus",NA
+"58",">denovo26 S4_6789","OTU26","Bombylius","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","Bombylius","major",96.83,"",NA,"","","genus",NA
+"59",">denovo292 S4_28270","OTU292","Bombylius","Diptera","Bombyliidae","BOLD:ACG4162","Arthropoda","Insecta","Diptera","Bombyliidae","Bombylius","major",95.24,"",NA,"","","genus",NA
+"60",">denovo66 S22_18810","OTU66","Braconidae","Hymenoptera","Braconidae","BOLD:AAC7396","Arthropoda","Insecta","Hymenoptera","Braconidae","Hypomicrogaster","OVRGDHJ07",92.31,"",NA,"","","family",NA
+"61",">denovo3 S12_39330","OTU3","Carabidae","Coleoptera","Carabidae","BOLD:AAC4547","Arthropoda","Insecta","Coleoptera","Carabidae","Calathus","ingratus",94.87,"",NA,"","","family",NA
+"62",">denovo135 S42_43234","OTU135","Cecidomyiidae","Diptera","Cecidomyiidae","","Arthropoda","Insecta","Diptera","Cecidomyiidae","","",98.08,"",NA,"","","family","Cecidomyiidae"
+"63",">denovo146 S42_36568","OTU146","Cecidomyiidae","Diptera","Cecidomyiidae","BOLD:ACN8901","Arthropoda","Insecta","Diptera","Cecidomyiidae","","",97.44,"",NA,"","","family",NA
+"64",">denovo233 S58_69231","OTU233","Cecidomyiidae","Diptera","Cecidomyiidae","","Arthropoda","Insecta","Diptera","Cecidomyiidae","","",99.36,"",NA,"","","family","Cecidomyiidae"
+"65",">denovo280 S42_68089","OTU280","Cecidomyiidae","Diptera","Cecidomyiidae","BOLD:ACB0251","Arthropoda","Insecta","Diptera","Cecidomyiidae","","",94.62,"KR069130",92,"Arthropoda, Insecta, Diptera, Cecidomyiidae","","family",NA
+"66",">denovo87 S12_3294","OTU87","Cecidomyiidae","Diptera","Cecidomyiidae","BOLD:ACF3884","Arthropoda","Insecta","Diptera","Cecidomyiidae","","",94.94,"",NA,"","","family",NA
+"67",">denovo106 S33_23680","OTU106","Ceracia","Diptera","Tachinidae","BOLD:ABX6290","Arthropoda","Insecta","Diptera","Tachinidae","Ceracia","dentata",98.08,"KT604614.1",98,"SAME","","genus","Ceracia"
+"68",">denovo278 S16_35686","OTU278","Ceracia","Diptera","Tachinidae","BOLD:ABX6290","Arthropoda","Insecta","Diptera","Tachinidae","Ceracia","dentata",97.96,"",97,"Arthropoda, Insecta, Diptera, Tachinidae, Ceracia","","genus","Ceracia"
+"69",">denovo58 S48_2889","OTU58","Ceratopogonidae","Diptera","Ceratopogonidae","","Arthropoda","Insecta","Diptera","Ceratopogonidae","","",98.08,"",NA,"","","family","Ceratopogonidae"
+"70",">denovo63 S11_36953","OTU63","Chionodes","Lepidoptera","Gelechiidae","BOLD:AAA4439","Arthropoda","Insecta","Lepidoptera","Gelechiidae","Chionodes","",98.92,"",NA,"","","genus","Chionodes"
+"71",">denovo218 S8_666","OTU218","Chloealtis","Orthoptera","Acrididae","BOLD:AAU6108","Arthropoda","Insecta","Orthoptera","Acrididae","Chloealtis","conspersa",95.48,"",NA,"","","genus",NA
+"72",">denovo162 S5_11115","OTU162","Chloropidae","Diptera","Chloropidae","","","","","","","",96,"KR398594.1",96,"Arthropoda, Insecta, Diptera, Chloropidae","","family",NA
+"73",">denovo268 S12_69122","OTU268","Chrysomelidae","Coleoptera","Chrysomelidae","BOLD:ACW4230","Arthropoda","Insecta","Coleoptera","Chrysomelidae","Cephaloleia","reventazonica",94.44,"",89,"Arthropoda, Insecta, Coleptera","","family",NA
+"74",">denovo279 S4_41084","OTU279","Chrysonoma","Lepidoptera","Oecophoridae","BOLD:ABU9796","Arthropoda","Insecta","Lepidoptera","Oecophoridae","Chrysonoma","sp. ANIC10",100,"",NA,"","","genus","Chrysonoma"
+"75",">denovo65 S16_33277","OTU65","Claustropyga","Diptera","Sciaridae","","Arthropoda","Insecta","Diptera","Sciaridae","Claustropyga","corticis",97.53,"",NA,"","","genus",NA
+"76",">denovo12 S11_616","OTU12","clypeatus","Araneae","Salticidae","","Arthropoda","Arachnida","Araneae","Salticidae","Habronattus","clypeatus",100,"",93,"same","","species","clypeatus"
+"77",">denovo155 S15_46794","OTU155","Coleoptera","Coleoptera","None","","Arthropoda","Insecta","Coleoptera","","","",94.44,"",NA,"","","order",NA
+"78",">denovo18 S12_4827","OTU18","Coleoptera","Coleoptera","None","","Arthropoda","Insecta","Coleoptera","","","",99.19,"KJ003229",90,"Arthropoda, Insecta, Coleoptera","","order","Coleoptera"
+"79",">denovo180 S11_31535","OTU180","Coleoptera","Coleoptera","None","","","","","","","",NA,"KJ003229.1",90,"","","order",NA
+"80",">denovo194 S12_31084","OTU194","Coleoptera","Coleoptera","None","","Arthropoda","Insecta","Diptera","Culicidae","Aedes","geniculatus",96.43,"JX412833",92,"Arthropoda, Insecta, Coleoptera, Melyridae","","order",NA
+"81",">denovo20 S12_64905","OTU20","Coleoptera","Coleoptera","None","","","","","","","",NA,"KJ203252.1",90,"","","order",NA
+"82",">denovo209 S12_455","OTU209","conterminus","Psocodea","Dasydemellidae","BOLD:AAP4627","Arthropoda","Insecta","Psocodea","Dasydemellidae","Teliapsocus","conterminus",100,"",NA,"","","species","conterminus"
+"83",">denovo179 S15_65405","OTU179","Copestylum","Diptera","Syrphidae","","Arthropoda","Insecta","Diptera","Syrphidae","Copestylum","avidum",98.08,"",NA,"","","genus","Copestylum"
+"84",">denovo246 S15_46661","OTU246","Copestylum","Diptera","Syrphidae","","Arthropoda","Insecta","Diptera","Syrphidae","Copestylum","avidum",98.04,"",NA,"","","genus","Copestylum"
+"85",">denovo262 S15_21115","OTU262","Copestylum","Diptera","Syrphidae","","Arthropoda","Insecta","Diptera","Syrphidae","Copestylum","avidum",97.19,"",NA,"","","genus",NA
+"86",">denovo212 S15_18390","OTU212","Culicoides","Diptera","Ceratopogonidae","BOLD:AAD1856","Arthropoda","Insecta","Diptera","Ceratopogonidae","Culicoides","oxystoma",98.86,"",NA,"","","genus","Culicoides"
+"87",">denovo0 S51_29626","OTU0","Cyclosa","Araneae","Araneidae","BOLD:AAN5007","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",98,"KP975943.1",98,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, Cyclosa turbinata","","genus","Cyclosa"
+"88",">denovo110 S33_48020","OTU110","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.51,"KP975943.1",94,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, Cyclosa turbinata","","genus",NA
+"89",">denovo129 S51_2304","OTU129","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",98.37,"",NA,"","","genus","Cyclosa"
+"90",">denovo131 S51_864","OTU131","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.07,"",NA,"","","genus",NA
+"91",">denovo139 S51_63350","OTU139","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.09,"",NA,"","","genus",NA
+"92",">denovo143 S51_30408","OTU143","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.62,"",NA,"","","genus",NA
+"93",">denovo15 S51_10649","OTU15","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.44,"",NA,"","","genus",NA
+"94",">denovo157 S51_3410","OTU157","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.83,"",NA,"","","genus",NA
+"95",">denovo167 S33_65749","OTU167","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.39,"",NA,"","","genus",NA
+"96",">denovo17 S51_19518","OTU17","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",98.72,"",NA,"","","genus","Cyclosa"
+"97",">denovo175 S48_28211","OTU175","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.44,"",NA,"","","genus",NA
+"98",">denovo185 S51_55175","OTU185","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","",NA,"KP975943.1",95,"","","genus",NA
+"99",">denovo217 S51_10164","OTU217","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.15,"",NA,"","","genus",NA
+"100",">denovo223 S51_61550","OTU223","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",98,"",NA,"","","genus","Cyclosa"
+"101",">denovo249 S51_35838","OTU249","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.44,"",NA,"","","genus",NA
+"102",">denovo25 S51_37407","OTU25","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.27,"",NA,"","","genus",NA
+"103",">denovo251 S51_61814","OTU251","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.97,"",NA,"","","genus",NA
+"104",">denovo273 S51_51074","OTU273","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.13,"",NA,"","","genus",NA
+"105",">denovo288 S51_8481","OTU288","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.6,"",NA,"","","genus",NA
+"106",">denovo306 S33_34293","OTU306","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.24,"KP975943.1",97,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, turbinata","","genus",NA
+"107",">denovo319 S51_24766","OTU319","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",98.69,"",NA,"","","genus","Cyclosa"
+"108",">denovo322 S51_10028","OTU322","Cyclosa","Araneae","Araneidae","AAB:0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.83,"",NA,"","","genus",NA
+"109",">denovo323 S33_12503","OTU323","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","",59.26,"KP975943.1",96,"Arthropoda, Arachnida, Araneae, Araneidae, Cyclosa, turbinata","","genus",NA
+"110",">denovo34 S51_56915","OTU34","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.99,"",NA,"","","genus","Cyclosa"
+"111",">denovo55 S51_44313","OTU55","Cyclosa","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",97.44,"",NA,"","","genus",NA
+"112",">denovo89 S51_36835","OTU89","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",95.14,"",NA,"","","genus",NA
+"113",">denovo97 S51_61502","OTU97","Cyclosa","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",96.73,"",NA,"","","genus",NA
+"114",">denovo182 S18_27910","OTU182","Dasyopa","Diptera","Chloropidae","AAG1518","Arthropoda","Insecta","Diptera","Chloropidae","Dasyopa","triangulata",98.88,"",NA,"","","genus","Dasyopa"
+"115",">denovo253 S18_53403","OTU253","Dasyopa","Diptera","Chloropidae","BOLD:AAG1518","Arthropoda","Insecta","Diptera","Chloropidae","Dasyopa","triangulata",98.89,"",NA,"","","genus","Dasyopa"
+"116",">denovo254 S27_43562","OTU254","Delia","Diptera","Anthomyiidae","BOLD:AAA3453","Arthropoda","Insecta","Diptera","Anthomyiidae","Delia","platura",97.85,"",NA,"","","genus","Delia"
+"117",">denovo198 S4_43706","OTU198","Dichopygina","Diptera","Sciaridae","BOLD:ACA8257","Arthropoda","Insecta","Diptera","Sciaridae","Dichopygina","",97.7,"",NA,"","","genus",NA
+"118",">denovo270 S5_43389","OTU270","Dichopygina","Diptera","Sciaridae","BOLD:ACA8257","Arthropoda","Insecta","Diptera","Sciaridae","Dichopygina","",98.77,"",NA,"","","genus","Dichopygina"
+"119",">denovo207 S12_43881","OTU207","Diptera","Diptera","None","BOLD:ACI1304","Arthropoda","Insecta","Diptera","","","",96.55,"KC135923.1",91,"Arthropoda, Insecta, Coleoptera, Cerambycidae, Chlorophorus","","order",NA
+"120",">denovo282 S18_1876","OTU282","Diptera","Diptera","None","BOLD:AAH4148","Arthropoda","Insecta","Diptera","Chloropidae","Apallates","coxendix",96.75,"KC660967",96,"Arthropoda, Insecta, Diptera, Neriidae","","order",NA
+"121",">denovo314 S5_2105","OTU314","Diptera","Diptera","None","BOLD:AAG4978","Arthropoda","Insecta","Diptera","Mycetophilidae","Mycetophila","",96.43,"",NA,"","","order",NA
+"122",">denovo321 S12_65471","OTU321","Diptera","Diptera","None","BOLD:","Arthropoda","Insecta","Diptera","Sciaridae","","",92.39,"",88,"Arthropoda, Insecta, Coleoptera","","order",NA
+"123",">denovo38 S12_46512","OTU38","Diptera","Diptera","None","BOLD:AAM9235","Arthropoda","Insecta","Diptera","Sciaridae","","",95.06,"",91,"Arthropoda, Insecta, Coleoptera","","order",NA
+"124",">denovo49 S13_9301","OTU49","Diptera","Diptera","None","BOLD:AAP9903","Arthropoda","Insecta","Diptera","Sciaridae","Bradysia","hilaris",93.59,"AY131112",84,"Arthropoda, Insecta, Coleoptera, Curculionidae","","order",NA
+"125",">denovo56 S8_63053","OTU56","Diptera","Diptera","None","BOLD:ACS6719","Arthropoda","Insecta","Diptera","Mycetophilidae","Syntemna","",88.54,"",NA,"","","order",NA
+"126",">denovo59 S27_2201","OTU59","Diptera","Diptera","None","BOLD:ACH6699","Arthropoda","Malacostraca","Decapoda","Munidopsidae","Munidopsis","crenatirostris",95.24,"KM647411",89,"Arthropoda, Insecta, Diptera, Chloropidae","","order",NA
+"127",">denovo80 S5_43","OTU80","Diptera","Diptera","None","","Arthropoda","Insecta","Diptera","Culicidae","Anopheles","atroparvus",95.06,"",NA,"","","order",NA
+"128",">denovo83 S33_61595","OTU83","Drosophila","Diptera","Drosophilidae","BOLD:AAB8851","Arthropoda","Insecta","Diptera","Drosophilidae","Drosophila","affinis",95.06,"",NA,"","","genus",NA
+"129",">denovo111 S44_37690","OTU111","Echidnophaga","Siphonaptera","Pulicidae","BOLD:ACD7578","Arthropoda","Insecta","Siphonaptera","Pulicidae","Echidnophaga","sp. GK-2011",98.83,"KT376440.1",97,"SAME","","genus","Echidnophaga"
+"130",">denovo102 S15_33859","OTU102","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",96.79,"KU705569.1",90,"Arthropoda,Insecta,Orthoptera,Gryllidae, Lebinthus","","family",NA
+"131",">denovo119 S51_58056","OTU119","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",96.3,"JQ344797.1",91,"Arthropoda, Insecta, Diptera","","family",NA
+"132",">denovo153 S36_68034","OTU153","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",95.56,"",NA,"","","family",NA
+"133",">denovo184 S51_26709","OTU184","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",98.08,"KU705569.1",92,"Arthropoda,Insecta,Orthoptera,Gryllidae","","family","Ectobiidae"
+"134",">denovo272 S7_10047","OTU272","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",99.32,"",NA,"","","family","Ectobiidae"
+"135",">denovo294 S36_16379","OTU294","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",98.72,"",92,"Arthropoda, Insecta, Blattodea, Ectobiidae, Blatella","","family","Ectobiidae"
+"136",">denovo60 S36_2969","OTU60","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",95.51,"",NA,"","","family",NA
+"137",">denovo90 S51_64231","OTU90","Ectobiidae","Blattodea","Ectobiidae","","Arthropoda","Insecta","Blattodea","Ectobiidae","","",98.08,"",NA,"","","family","Ectobiidae"
+"138",">denovo133 S5_7673","OTU133","Erebidae","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",94.87,"",NA,"","","family",NA
+"139",">denovo250 S11_56118","OTU250","Erebidae","Lepidoptera","Erebidae","BOLD:AAB4681","Arthropoda","Insecta","Lepidoptera","Erebidae","Spilosoma","glatignyi",96.15,"KF390953",96,"Arthropoda, Insecta, Lepidoptera, Erebidae, Spilosoma","","family",NA
+"140",">denovo325 S13_6170","OTU325","Erebidae","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",97.74,"",NA,"","","family",NA
+"141",">denovo164 S51_32969","OTU164","Euphilotes","Lepidoptera","Lycaenidae","","Arthropoda","Insecta","Lepidoptera","Lycaenidae","Euphilotes","pallescens",97.62,"",NA,"","","genus",NA
+"142",">denovo264 S16_4619","OTU264","Euphilotes","Lepidoptera","Lycaenidae","","Arthropoda","Insecta","Lepidoptera","Lycaenidae","Euphilotes","",98.72,"",NA,"","","genus","Euphilotes"
+"143",">denovo32 S16_68617","OTU32","Euphilotes","Lepidoptera","Lycaenidae","","Arthropoda","Insecta","Lepidoptera","Lycaenidae","Euphilotes","",98.7,"",NA,"","","genus","Euphilotes"
+"144",">denovo236 S11_2908","OTU236","Euplagia","Lepidoptera","Erebidae","BOLD:AAD9583","Arthropoda","Insecta","Lepidoptera","Erebidae","Euplagia","quadripunctaria",100,"KP253309.1",94,"Arthropoda, Insecta, Lepidoptera, Erebidae, Euplagia","","genus","Euplagia"
+"145",">denovo48 S27_34127","OTU48","Exoristoides","Diptera","Tachinidae","","Arthropoda","Insecta","Diptera","Tachinidae","Exoristoides","",98.72,"",NA,"","","genus","Exoristoides"
+"146",">denovo190 S13_536","OTU190","fuscomaculella","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Ozamia","fuscomaculella",100,"",NA,"","","species","fuscomaculella"
+"147",">denovo231 S37_15164","OTU231","Gelechiidae","Lepidoptera","Gelechiidae","BOLD:ABX6425","Arthropoda","Insecta","Lepidoptera","Gelechiidae","Aristotelia","fungivorella",96.75,"KM373618",96,"Arthropoda, Insecta, Lepidoptera, Gelechiidae","","family",NA
+"148",">denovo6 S36_68204","OTU6","Gelechiidae","Lepidoptera","Gelechiidae","BOLD:AAE6658","Arthropoda","Insecta","Lepidoptera","Gelechiidae","Aristotelia","heliacella",94.87,"HQ570408",95,"Arthropoda, Insecta, Lepidoptera, Gelechiidae","","family",NA
+"149",">denovo156 S58_10501","OTU156","Geometridae","Lepidoptera","Geometridae","","Arthropoda","Insecta","Lepidoptera","Geometridae","Phyllodonta","",97.39,"",NA,"","","family",NA
+"150",">denovo169 S63_1826","OTU169","Geometridae","Lepidoptera","Geometridae","","Arthropoda","Insecta","Lepidoptera","Geometridae","Thysanopyga","amarantha",98.82,"",NA,"","","family","Geometridae"
+"151",">denovo91 S37_35714","OTU91","Glaucina","Lepidoptera","Geometridae","","Arthropoda","Insecta","Lepidoptera","Geometridae","Glaucina","",99.36,"",NA,"","","genus","Glaucina"
+"152",">denovo100 S12_11923","OTU100","Glyptina","Coleoptera","Chrysomelidae","BOLD:AAN5904","Arthropoda","Insecta","Coleoptera","Chrysomelidae","Glyptina","",97.4,"KJ961772",91,"Arthropoda, Insecta, Coleoptera, Carabidae, Elaphrus, ULGINOSUS","","genus",NA
+"153",">denovo126 S12_605","OTU126","Glyptina","Coleoptera","Chrysomelidae","","Arthropoda","Insecta","Coleoptera","Chrysomelidae","Glyptina","",100,"",NA,"","","genus","Glyptina"
+"154",">denovo221 S4_3431","OTU221","Grammia","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",98.01,"",NA,"","","genus","Grammia"
+"155",">denovo260 S11_27042","OTU260","Grammia","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",96.13,"",NA,"","","genus",NA
+"156",">denovo267 S5_65010","OTU267","Grammia","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",99.17,"",NA,"","","genus","Grammia"
+"157",">denovo52 S11_512","OTU52","Grammia","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","",NA,"EU119503",95,"Arthropoda, Insecta, Lepidoptera, Erebidae, Grammia ursina","","genus",NA
+"158",">denovo174 S25_10149","OTU174","Gryllidae","Orthoptera","Gryllidae","","","","","","","",NA,"KR919330.1",94,"Arthropoda,Insecta,Orthoptera,Gryllidae","","family",NA
+"159",">denovo266 S25_48915","OTU266","Gryllidae","Orthoptera","Gryllidae","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",94.74,"KR919330",92,"Arthropoda, Insecta, Orthoptera, Gryllidae","","family",NA
+"160",">denovo10 S25_35191","OTU10","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",96,"KR428849.1",91,"Arthropoda, Insecta, Diptera, Hybotidae sp","","genus",NA
+"161",">denovo132 S25_37189","OTU132","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",95.51,"",NA,"","","genus",NA
+"162",">denovo255 S25_14094","OTU255","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",96.79,"",NA,"","","genus",NA
+"163",">denovo29 S25_47227","OTU29","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","",95.51,"",NA,"","","genus",NA
+"164",">denovo300 S25_7247","OTU300","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",96.15,"",NA,"","","genus",NA
+"165",">denovo302 S25_61094","OTU302","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",96.79,"",NA,"","","genus",NA
+"166",">denovo31 S25_59565","OTU31","Gryllodes","Orthoptera","Gryllidae","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","",100,"",NA,"","","genus","Gryllodes"
+"167",">denovo317 S25_35539","OTU317","Gryllodes","Orthoptera","Gryllidae","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","sigillatus",97.87,"",NA,"","","genus","Gryllodes"
+"168",">denovo324 S25_28434","OTU324","Gryllodes","Orthoptera","Gryllidae","BOLD:ABW5620","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","",95.51,"",NA,"","","genus",NA
+"169",">denovo47 S25_51564","OTU47","Gryllodes","Orthoptera","Gryllidae","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","sigillatus",99.29,"",NA,"","","genus","Gryllodes"
+"170",">denovo241 S18_34877","OTU241","Heleomyzidae","Diptera","Heleomyzidae","BOLD:ACX4624","Arthropoda","Insecta","Diptera","Heleomyzidae","Suillia","convergens",98.72,"",97,"Arthropoda, Insecta, Diptera, Neriidae, Odontoloxous","","family","Heleomyzidae"
+"171",">denovo178 S51_2998","OTU178","Heliconius","Lepidoptera","Nymphalidae","","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Heliconius","",NA,"",NA,"","","genus",NA
+"172",">denovo78 S37_50004","OTU78","Hemieuxoa","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Hemieuxoa","rudens",98.7,"",NA,"","","genus","Hemieuxoa"
+"173",">denovo138 S8_2096","OTU138","Holorusia","Diptera","Tipulidae","BOLD:ABV1770","Arthropoda","Insecta","Diptera","Tipulidae","Holorusia","",100,"",NA,"","","genus","Holorusia"
+"174",">denovo159 S63_21345","OTU159","Hybomitra","Diptera","Tabanidae","AAI8735","Arthropoda","Insecta","Diptera","Tabanidae","Hybomitra","pechumani",98.72,"",NA,"","","genus","Hybomitra"
+"175",">denovo112 S5_54575","OTU112","Hydrophoria","Diptera","Anthomyiidae","BOLD:AAG2460","Arthropoda","Insecta","Diptera","Anthomyiidae","Hydrophoria","lancifer",98.7,"KR437544.1",97,"Arthropoda, Insecta, Diptera, Tachnidae","","genus","Hydrophoria"
+"176",">denovo303 S4_63268","OTU303","Hyposcada","Lepidoptera","Nymphalidae","BOLD:ACE8171","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Hyposcada","anchiala mendax",96.47,"",NA,"","","genus",NA
+"177",">denovo142 S33_16584","OTU142","Isopoda","Isopoda","None","BOLD:AAM6271","Arthropoda","Insecta","Diptera","Chironomidae","Krenopelopia","",96.05,"",87,"Arthropoda, Isopoda","","order",NA
+"178",">denovo141 S8_64644","OTU141","johnsoni","Araneae","Salticidae","BOLD:AAI2832","Arthropoda","Arachnida","Araneae","Salticidae","Phidippus","johnsoni",99.36,"",NA,"","","species","johnsoni"
+"179",">denovo210 S16_67475","OTU210","kearfotti","Lepidoptera","Tineidae","","Arthropoda","Insecta","Lepidoptera","Tineidae","Acrolophus","kearfotti",99.34,"",NA,"","","species","kearfotti"
+"180",">denovo312 S16_465","OTU312","kearfotti","Lepidoptera","Tineidae","","Arthropoda","Insecta","Lepidoptera","Tineidae","Acrolophus","kearfotti",99.36,"",NA,"","","species","kearfotti"
+"181",">denovo117 S58_32297","OTU117","Lacinipolia","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Lacinipolia","petita",99.04,"HM409038.1",96,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","genus","Lacinipolia"
+"182",">denovo64 S51_51858","OTU64","Lacinipolia","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Lacinipolia","davena",98.95,"",NA,"","","genus","Lacinipolia"
+"183",">denovo103 S33_35870","OTU103","Lepidoptera","Lepidoptera","None","BOLD:AAC0006","Arthropoda","Insecta","Lepidoptera","Pterophoridae","Platyptilia","carduidactylus",93.83,"KM544530",86,"Arthropoda, Insecta, Lepidoptera, Crambidae, Choristostigma","","order",NA
+"184",">denovo114 S16_45442","OTU114","Lepidoptera","Lepidoptera","None","BOLD:AAB6761","Arthropoda","Insecta","Lepidoptera","Noctuidae","Tarache","",96.55,"KU189176.1",94,"Arthropoda, Insecta, Lepidoptera, ++","","order",NA
+"185",">denovo123 S27_55271","OTU123","Lepidoptera","Lepidoptera","None","BOLD:AAC7972","Arthropoda","Insecta","Lepidoptera","Noctuidae","Egira","curialis",100,"",NA,"","","order","Lepidoptera"
+"186",">denovo14 S44_64370","OTU14","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Coleoptera","","","",98.72,"",96,"Arthropoda, Insecta, Lepidoptera, mixed","","order","Lepidoptera"
+"187",">denovo161 S16_46718","OTU161","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Lepidoptera","Erebidae","Trichromia","cotes",98.92,"",NA,"","","order","Lepidoptera"
+"188",">denovo19 S16_62506","OTU19","Lepidoptera","Lepidoptera","None","","","","","","","",NA,"HM375308.1",94,"","","order",NA
+"189",">denovo205 S11_8635","OTU205","Lepidoptera","Lepidoptera","Apatelodidae","BOLD:AAA3525","Arthropoda","Insecta","Lepidoptera","Apatelodidae","Apatelodes","felisi",97.3,"HM892620.1",97,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","order",NA
+"190",">denovo226 S42_49276","OTU226","Lepidoptera","Lepidoptera","Ypsolophidae","BOLD:AAC7861","Arthropoda","Insecta","Lepidoptera","Ypsolophidae","Ypsolopha","scabrella",95.4,"KF388725.1",94,"Arthropoda, Insecta, Lepidoptera, Geometridae, Thallogama","","order",NA
+"191",">denovo24 S11_21104","OTU24","Lepidoptera","Lepidoptera","None","BOLD:AAL8779","Arthropoda","Insecta","Lepidoptera","Noctuidae","","",97.85,"HM892620",97,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","order","Lepidoptera"
+"192",">denovo258 S16_13708","OTU258","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"JX970155",94,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","order","Lepidoptera"
+"193",">denovo269 S51_10441","OTU269","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Lepidoptera","Geometridae","Idaea","halmaea",96.39,"",94,"arthropoda, insecta, lepidoptera, noctuidae","","order",NA
+"194",">denovo285 S16_24252","OTU285","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Lepidoptera","Erebidae","Trichromia","cotes",99.1,"KP096374",96,"Arthropoda, Insecta, Lepidoptera, Lycaenidae, Eicochrysops","","order","Lepidoptera"
+"195",">denovo316 S16_19267","OTU316","Lepidoptera","Lepidoptera","None","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",98.08,"KF492455",94,"arthropoda, insecta, lepidoptera, noctuidae, orthosia","","order","Lepidoptera"
+"196",">denovo37 S11_2248","OTU37","Lepidoptera","Lepidoptera","Nymphalidae","BOLD:ABZ6190","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Napeogenes","sylphis rindgei",98.72,"",NA,"","","order","Lepidoptera"
+"197",">denovo46 S9_36303","OTU46","Lepidoptera","Lepidoptera","Dalceridae","","Arthropoda","Insecta","Lepidoptera","Dalceridae","Acraga","",94.64,"KF391814",94,"Arthropoda, Insecta, Lepidoptera","","order",NA
+"198",">denovo296 S25_41014","OTU296","Libellulidae","Odonata","Libellulidae","BOLD:AAC6275","Arthropoda","Insecta","Odonata","Libellulidae","Leucorrhinia","frigida",94.05,"",90,"Arthropoda, Insecta, Orthoptera, Gryllidae","","family",NA
+"199",">denovo84 S33_29746","OTU84","Limnophyes","Diptera","Chironomidae","BOLD:AAB1810","Arthropoda","Insecta","Diptera","Chironomidae","Limnophyes","",95.4,"",NA,"","","genus",NA
+"200",">denovo150 S15_35118","OTU150","lubricipeda","Lepidoptera","Erebidae","BOLD:AAB2233","Arthropoda","Insecta","Lepidoptera","Erebidae","Spilosoma","lubricipeda",99.35,"",NA,"","","species","lubricipeda"
+"201",">denovo27 S43_1942","OTU27","Melanotus","Coleoptera","Elateridae","","Arthropoda","Insecta","Coleoptera","Elateridae","Melanotus","longulus longulus",98.08,"",NA,"","","genus","Melanotus"
+"202",">denovo240 S12_21","OTU240","Melyridae","Coleoptera","Melyridae","","Arthropoda","Insecta","Coleoptera","Melyridae","","",98.7,"",91,"Arthropoda, Insecta, Coleoptera","","family","Melyridae"
+"203",">denovo256 S12_20426","OTU256","Melyridae","Coleoptera","Melyridae","BOLD:ACE3366","Arthropoda","Insecta","Diptera","Tachinidae","Houghia","sp. 1",95.56,"",90,"Arthropoda, Insecta, Coleoptera, Melyridae","","family",NA
+"204",">denovo309 S63_30764","OTU309","mexicanum","Diptera","Syrphidae","","Arthropoda","Insecta","Diptera","Syrphidae","Copestylum","mexicanum",99.36,"",NA,"","","species","mexicanum"
+"205",">denovo99 S51_55675","OTU99","Monochroa","Lepidoptera","Gelechiidae","","Arthropoda","Insecta","Lepidoptera","Gelechiidae","Monochroa","placidella",98.7,"",NA,"","","genus","Monochroa"
+"206",">denovo62 S51_373","OTU62","Monochroa","Lepidoptera","Gelechiidae","","Arthropoda","Insecta","Lepidoptera","Gelechiidae","Monochroa","placidella",96.89,"",NA,"","","genus",NA
+"207",">denovo140 S18_40228","OTU140","Neriidae","Diptera","Neriidae","BOLD:ACI1501","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","pachycericola",93.29,"",NA,"","","family",NA
+"208",">denovo120 S16_6224","OTU120","Noctuidae","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Acontia","coquillettii",96,"JQ553604.1",92,"Arthropoda, Insecta, Lepidoptera, Noctuidae/Torticidae","","family",NA
+"209",">denovo168 S51_55874","OTU168","Noctuidae","Lepidoptera","Noctuidae","BOLD:AAL8779","Arthropoda","Insecta","Lepidoptera","Noctuidae","","",NA,"HM892620.1",93,"","","family",NA
+"210",">denovo188 S58_27387","OTU188","Noctuidae","Lepidoptera","Noctuidae","","","","","","","",NA,"DQ116165.1",95,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","family",NA
+"211",">denovo222 S51_20099","OTU222","Noctuidae","Lepidoptera","Noctuidae","BOLD:AAD1074","Arthropoda","Insecta","Lepidoptera","Noctuidae","Platypolia","anceps",98.68,"KM554574.1",95,"Arthropoda, Insecta, Lepidoptera, Noctuidae","","family","Noctuidae"
+"212",">denovo42 S42_24164","OTU42","Noctuidae","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Schinia","saturata",98.92,"",NA,"","","family","Noctuidae"
+"213",">denovo50 S51_66612","OTU50","Noctuidae","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Apterogenum","ypsillon",98.71,"HQ565351",96,"Arthropoda, Insecta, Lepidoptera, Noctuidae, Fissipunctia","","family","Noctuidae"
+"214",">denovo28 S51_67454","OTU28","Notodontidae","Lepidoptera","Notodontidae","","Arthropoda","Insecta","Lepidoptera","Notodontidae","Elymiotis","complicata",97.7,"",NA,"","","family",NA
+"215",">denovo21 S4_23486","OTU21","Noctuidae","Lepidoptera","Noctuidae","BOLD:AAA7700","Arthropoda","Insecta","Lepidoptera","Noctuidae","Elaphria","alapallida",97.44,"",NA,"","","family",NA
+"216",">denovo192 S4_8027","OTU192","Nymphalidae","Lepidoptera","Nymphalidae","AAC9126","Arthropoda","Insecta","Lepidoptera","Nymphalidae","Hyposcada","illinissa margarita",100,"",NA,"","","family","Nymphalidae"
+"217",">denovo172 S18_22753","OTU172","Odontoloxozus","Diptera","Neriidae","","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","",NA,"KC660967",100,"Arthropoda, Insecta, Diptera, Neriidae, Odontoloxozus","","genus","Odontoloxozus"
+"218",">denovo149 S18_24432","OTU149","Odontoloxozus","Diptera","Neriidae","50% similarity","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","",50,"KC660967",98,"Arthropoda, Insecta, Diptera, Neriidae, Odontoloxozus","","genus","Odontoloxozus"
+"219",">denovo220 S18_18193","OTU220","Odontoloxozus","Diptera","Neriidae","BOLD:ACI1501","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","pachycericola",96.15,"",NA,"","","genus",NA
+"220",">denovo276 S18_17664","OTU276","Odontoloxozus","Diptera","Neriidae","BOLD:ACI1501","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","pachycericola",96.77,"",NA,"","","genus",NA
+"221",">denovo283 S8_24645","OTU283","Oecophoridae","Lepidoptera","Oecophoridae","BOLD:ABX9811","Arthropoda","Insecta","Lepidoptera","Oecophoridae","Pantogymna","themeropis",100,"",NA,"","","family","Oecophoridae"
+"222",">denovo315 S16_29619","OTU315","Oegoconia","Lepidoptera","Autostichidae","BOLD:AAH4681","Arthropoda","Insecta","Lepidoptera","Autostichidae","Oegoconia","novimundi",97.62,"",NA,"","","genus",NA
+"223",">denovo9 S37_9374","OTU9","oleracea","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","oleracea",99.35,"",NA,"","","species","oleracea"
+"224",">denovo128 S58_17396","OTU128","Orgyia","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Orgyia","magna",98.06,"",NA,"","","genus","Orgyia"
+"225",">denovo105 S25_4637","OTU105","Orthoptera","Orthoptera","None","BOLD:ACI2363","Arthropoda","Insecta","Orthoptera","Acrididae","Egnatius","apicalis",89.33,"",81,"ALL OVER THE PLACE","","order",NA
+"226",">denovo191 S23_718","OTU191","Orthoptera","Orthoptera","None","","","","","","","",90,"KM657338.1",NA,"","","order",NA
+"227",">denovo245 S25_1759","OTU245","Orthoptera","Orthoptera","None","BOLD:AAP6093","Arthropoda","Insecta","Orthoptera","Acrididae","Oxya","fuscovittata",88,"no match",NA,"","","order",NA
+"228",">denovo92 S25_10468","OTU92","Orthoptera","Orthoptera","None","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","",90.15,"",NA,"","","order",NA
+"229",">denovo214 S33_67745","OTU214","Ozamia","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Ozamia","fuscomaculella",98.7,"",NA,"","","genus","Ozamia"
+"230",">denovo228 S13_20544","OTU228","Ozamia","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Ozamia","fuscomaculella",99.17,"",NA,"","","genus","Ozamia"
+"231",">denovo247 S63_1319","OTU247","Ozamia","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Ozamia","fuscomaculella",96.61,"",NA,"","","genus",NA
+"232",">denovo81 S18_4","OTU81","pachycericola","Diptera","Neriidae","BOLD:ACI1501","Arthropoda","Insecta","Diptera","Neriidae","Odontoloxozus","pachycericola",100,"",NA,"","","species","pachycericola"
+"233",">denovo186 S63_5158","OTU186","pechumani","Diptera","Tabanidae","AAI8735","Arthropoda","Insecta","Diptera","Tabanidae","Hybomitra","pechumani",100,"",NA,"","","species","pechumani"
+"234",">denovo237 S42_17369","OTU237","Peridroma","Lepidoptera","Noctuidae","BOLD:AAA6377","Arthropoda","Insecta","Lepidoptera","Noctuidae","Peridroma","saucia",99.21,"",NA,"","","genus","Peridroma"
+"235",">denovo122 S58_12659","OTU122","Pero","Lepidoptera","Geometridae","","Arthropoda","Insecta","Lepidoptera","Geometridae","Pero","sp.",99.35,"",NA,"","","genus","Pero"
+"236",">denovo75 S13_49240","OTU75","Phidippus","Araneae","Salticidae","BOLD:ABY4328","Arthropoda","Arachnida","Araneae","Salticidae","Phidippus","",99.36,"",NA,"","","genus","Phidippus"
+"237",">denovo109 S12_61996","OTU109","Phoridae","Diptera","Phoridae","BOLD:AAM9356","Arthropoda","Insecta","Diptera","Phoridae","","",97.21,"KM645853",93,"same","","family",NA
+"238",">denovo94 S12_131","OTU94","Phoridae","Diptera","Phoridae","BOLD:AAM9356","Arthropoda","Insecta","Diptera","Phoridae","","",99.35,"",NA,"","","family","Phoridae"
+"239",">denovo181 S48_2589","OTU181","picta","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",99.36,"",NA,"","","species","picta"
+"240",">denovo204 S11_7749","OTU204","picta","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",99.35,"",NA,"","","species","picta"
+"241",">denovo261 S11_61080","OTU261","picta","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",100,"",NA,"","","species","picta"
+"242",">denovo74 S9_45812","OTU74","picta","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Arachnis","picta",100,"",NA,"","","species","picta"
+"243",">denovo318 S44_53436","OTU318","Prochoerodes","Lepidoptera","Geometridae","","Arthropoda","Insecta","Lepidoptera","Geometridae","Prochoerodes","forficaria",98.72,"",NA,"","","genus","Prochoerodes"
+"244",">denovo77 S11_15924","OTU77","Protoschinia","Lepidoptera","Noctuidae","BOLD:AAJ6516","Arthropoda","Insecta","Lepidoptera","Noctuidae","Protoschinia","scutosa",97.37,"",NA,"","","genus",NA
+"245",">denovo259 S12_21162","OTU259","Ptinidae","Coleoptera","Ptinidae","","Arthropoda","Insecta","Coleoptera","Ptinidae","","",100,"",NA,"","","family","Ptinidae"
+"246",">denovo2 S44_17169","OTU2","Pulicidae","Siphonaptera","Pulicidae","","","","","","","",NA,"KT376440.1",97,"Arthropoda, Insecta, Siphonaptera, Puliciade, Echidnophaga","","family",NA
+"247",">denovo275 S13_22582","OTU275","Pyralidae","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Ozamia","fuscomaculella",94.48,"",NA,"","","family",NA
+"248",">denovo144 S11_24150","OTU144","Pyropyga","Coleoptera","Lampyridae","BOLD:ACD4202","Arthropoda","Insecta","Coleoptera","Lampyridae","Pyropyga","",97.42,"",NA,"","","genus",NA
+"249",">denovo295 S11_2","OTU295","Pyropyga","Coleoptera","Lampyridae","BOLD:ACD4202","Arthropoda","Insecta","Coleoptera","Lampyridae","Pyropyga","",99.35,"",NA,"","","genus","Pyropyga"
+"250",">denovo235 S37_1505","OTU235","rudens","Lepidoptera","Noctuidae","","Arthropoda","Insecta","Lepidoptera","Noctuidae","Hemieuxoa","rudens",100,"",NA,"","","species","rudens"
+"251",">denovo72 S12_1439","OTU72","ruficollis","Coleoptera","Carabidae","BOLD:AAV0406","Arthropoda","Insecta","Coleoptera","Carabidae","Calathus","ruficollis",100,"",NA,"","","species","ruficollis"
+"252",">denovo183 S11_2570","OTU183","Salticidae","Araneae","Salticidae","","","","","","","",NA,"JN308344.1",92,"Arthropoda, Arachnida, Araneae, Salticidae","","family",NA
+"253",">denovo177 S42_52508","OTU177","saucia","Lepidoptera","Noctuidae","AAA6374","Arthropoda","Insecta","Lepidoptera","Noctuidae","Peridroma","saucia",99.36,"",NA,"","","species","saucia"
+"254",">denovo242 S27_1639","OTU242","Sciaridae","Diptera","Sciaridae","BOLD:ABX9405","Arthropoda","Insecta","Diptera","Sciaridae","","",98.72,"",NA,"","","family","Sciaridae"
+"255",">denovo244 S4_16652","OTU244","Sciaridae","Diptera","Sciaridae","BOLD:ACA8257","Arthropoda","Insecta","Diptera","Sciaridae","Dichopygina","",98.85,"",NA,"","","family","Sciaridae"
+"256",">denovo281 S27_43368","OTU281","Sciaridae","Diptera","Sciaridae","BOLD:ABX9405","Arthropoda","Insecta","Diptera","Sciaridae","","",98.72,"",NA,"","","family","Sciaridae"
+"257",">denovo36 S27_49741","OTU36","Sciaridae","Diptera","Sciaridae","BOLD:ABX9405","Arthropoda","Insecta","Diptera","Sciaridae","","",98.72,"",NA,"","","family","Sciaridae"
+"258",">denovo45 S4_32387","OTU45","Sciaridae","Diptera","Sciaridae","BOLD:","Arthropoda","Insecta","Diptera","Sciaridae","","",94.87,"",NA,"","","family",NA
+"259",">denovo148 S51_54542","OTU148","Spodoptera","Lepidoptera","Noctuidae","BOLD:ACE3456","Arthropoda","Insecta","Lepidoptera","Noctuidae","Spodoptera","depravata",98.54,"",NA,"","","genus","Spodoptera"
+"260",">denovo311 S25_370","OTU311","supplicans","Orthoptera","Gryllidae","","Arthropoda","Insecta","Orthoptera","Gryllidae","Gryllodes","supplicans",100,"",NA,"","","species","supplicans"
+"261",">denovo310 S4_9712","OTU310","Tachinidae","Diptera","Tachinidae","","Arthropoda","Insecta","Diptera","Tachinidae","","",96.79,"",NA,"","","family",NA
+"262",">denovo320 S16_33156","OTU320","Tachinidae","Diptera","Tachinidae","","Arthropoda","Insecta","Diptera","Tachinidae","Chthamalus","neglectus",98.72,"KT604614.1",97,"Arthropoda, Insecta, Diptera, Tachinidae, Ceracia","","family","Tachinidae"
+"263",">denovo54 S4_182","OTU54","Tachinidae","Diptera","Tachinidae","BOLD:ACF2163","Arthropoda","Insecta","Diptera","Tachinidae","","",96.79,"",NA,"","","family",NA
+"264",">denovo88 S4_28345","OTU88","Tachinidae","Diptera","Tachinidae","","Arthropoda","Insecta","Diptera","Tachinidae","","",97.75,"",NA,"","","family",NA
+"265",">denovo104 S4_13379","OTU104","Tachinidae","Diptera","Tachinidae","BOLD:ABU9796","Arthropoda","Insecta","Lepidoptera","Oecophoridae","Chrysonoma","sp. ANIC10",98.67,"KR437544",95,"Arthropoda, Insecta, Diptera, Tachnidae","","family","Tachinidae"
+"266",">denovo134 S4_62293","OTU134","Tachinidae","Diptera","Tachinidae","BOLD:AAG2323","Arthropoda","Insecta","Diptera","Tachinidae","","",99.34,"",NA,"","","family","Tachinidae"
+"267",">denovo160 S4_3","OTU160","Tachinidae","Diptera","Tachinidae","BOLD:ACF2163","Arthropoda","Insecta","Diptera","Tachinidae","","",100,"",NA,"","","family","Tachinidae"
+"268",">denovo197 S4_22639","OTU197","Tachinidae","Diptera","Tachinidae","BOLD:ACF2163","Arthropoda","Insecta","Diptera","Tachinidae","","",NA,"¾KR437544.1",95,"Arthropoda, Insecta, Diptera, Tachnidae","","family",NA
+"269",">denovo202 S22_30229","OTU202","Tachinidae","Diptera","Tachinidae","BOLD:ACF2163","Arthropoda","Insecta","Diptera","Tachinidae","","",NA,"KR437544.1",96,"Arthropoda, Insecta, Diptera, Tachnidae","","family",NA
+"270",">denovo203 S4_26677","OTU203","Tachinidae","Diptera","Tachinidae","BOLD:ACF2163","Arthropoda","Insecta","Diptera","Tachinidae","","",NA,"KR437544.1",96,"Arthropoda, Insecta, Diptera, Tachnidae","","family",NA
+"271",">denovo39 S16_44584","OTU39","Tachinidae","Diptera","Tachinidae","BOLD:AAH4681","Arthropoda","Insecta","Lepidoptera","Autostichidae","Oegoconia","novimundi",97.62,"KT604614",94,"Arthropoda, Insecta, Diptera, Tachnidae","","family",NA
+"272",">denovo43 S23_57645","OTU43","Tachinidae","Diptera","Tachinidae","","Arthropoda","Insecta","Diptera","Tachinidae","Archytas","apicifer",95.4,"KT733235",90,"Arthropoda, Insecta, Diptera","","family",NA
+"273",">denovo53 S22_3733","OTU53","Tenebrio","Coleoptera","Tenebrionidae","BOLD:ACF4407","Arthropoda","Insecta","Coleoptera","Tenebrionidae","Tenebrio","molitor",100,"",NA,"","","genus","Tenebrio"
+"274",">denovo287 S15_52137","OTU287","testaceus","Coleoptera","Carabidae","BOLD:AAL8051","Arthropoda","Insecta","Coleoptera","Carabidae","Acupalpus","testaceus",99.36,"",NA,"","","species","testaceus"
+"275",">denovo124 S23_66032","OTU124","Tettigoniidae","Orthoptera","Tettigoniidae","","Arthropoda","Insecta","Orthoptera","Tettigoniidae","Aglaothorax","morsei",93.2,"",NA,"","","family",NA
+"276",">denovo224 S33_1218","OTU224","Tettigoniidae","Orthoptera","Tettigoniidae","","Arthropoda","Insecta","Orthoptera","Tettigoniidae","Aglaothorax","morsei",96.15,"HQ609470",90,"Arthropoda, Insecta, Orthoptera, Tettigoniidae","","family",NA
+"277",">denovo298 S23_9188","OTU298","Tettigoniidae","Orthoptera","Tettigoniidae","BOLD:AAY0248","Arthropoda","Insecta","Orthoptera","Tettigoniidae","Rhacocleis","crypta",94.05,"",90,"Arthropoda, Insecta, Orthoptera, Tettigoniidae","","family",NA
+"278",">denovo40 S23_13310","OTU40","Tettigoniidae","Orthoptera","Tettigoniidae","","Arthropoda","Insecta","Orthoptera","Tettigoniidae","Aglaothorax","morsei",94.87,"KM657338",90,"Arthropoda, Insecta, Orthoptera","","family",NA
+"279",">denovo82 S51_36967","OTU82","Tettigoniidae","Orthoptera","Tettigoniidae","BOLD:AAL1638","Arthropoda","Insecta","Orthoptera","Tettigoniidae","Psorodonotus","fieberi",94.05,"AY131112",87,"Arthropoda, Insecta, Coleoptera","","family",NA
+"280",">denovo225 S5_5035","OTU225","Thaumatomyia","Diptera","Chloropidae","BOLD:AAK2890","Arthropoda","Insecta","Diptera","Chloropidae","Thaumatomyia","",100,"KR398594.1",NA,"","","genus","Thaumatomyia"
+"281",">denovo115 S27_21211","OTU115","Tipula","Diptera","Tipulidae","BOLD:AAF9010","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",97.75,"¾KJ090730.1",96,"same","","genus",NA
+"282",">denovo118 S27_43890","OTU118","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",98.04,"KR431706.1",95,"same","","genus","Tipula"
+"283",">denovo166 S27_52245","OTU166","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","submaculata",97.04,"",NA,"","","genus",NA
+"284",">denovo22 S27_51257","OTU22","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",97.67,"",NA,"","","genus",NA
+"285",">denovo252 S27_54126","OTU252","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",98.69,"",NA,"","","genus","Tipula"
+"286",">denovo30 S27_665","OTU30","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",100,"",NA,"","","genus","Tipula"
+"287",">denovo5 S27_51670","OTU5","Tipula","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","Tipula","",96.79,"",NA,"","","genus",NA
+"288",">denovo206 S37_42776","OTU206","Tipulidae","Diptera","Tipulidae","","","","","","","",NA,"KR397266.1",96,"Arthropoda, Insecta, Diptera, Tipulidae","","family",NA
+"289",">denovo86 S43_5950","OTU86","Tipulidae","Diptera","Tipulidae","","Arthropoda","Insecta","Diptera","Tipulidae","","",97.44,"",NA,"","","family",NA
+"290",">denovo208 S4_10035","OTU208","Torticidae","Lepidoptera","Torticidae","BOLD:AAG4978","Arthropoda","Insecta","Diptera","Mycetophilidae","Mycetophila","",96.43,"KM548781",92,"Arthropoda, Insecta, Lepidoptera, Torticidae","","family",NA
+"291",">denovo23 S51_68609","OTU23","Torticidae","Lepidoptera","Torticidae","","Arthropoda","Insecta","Lepidoptera","Torticidae","","",97.2,"KF405198.1",97,"Arthropoda, Insecta, Lepidoptera, Torticidae","","family",NA
+"292",">denovo165 S37_28389","OTU165","trabalis","Lepidoptera","Pyralidae","","Arthropoda","Insecta","Lepidoptera","Pyralidae","Toripalpus","trabalis",99.36,"",NA,"","","species","trabalis"
+"293",">denovo187 S27_13119","OTU187","Trichoplusia","Lepidoptera","Noctuidae","AAC3409","Arthropoda","Insecta","Lepidoptera","Noctuidae","Trichoplusia","ni",98.08,"",NA,"","","genus","Trichoplusia"
+"294",">denovo265 S27_31570","OTU265","Trichoplusia","Lepidoptera","Noctuidae","BOLD:AAC3409","Arthropoda","Insecta","Lepidoptera","Noctuidae","Trichoplusia","ni",98.72,"",NA,"","","genus","Trichoplusia"
+"295",">denovo290 S27_46224","OTU290","Trichoplusia","Lepidoptera","Noctuidae","BOLD:AAC3409","Arthropoda","Insecta","Lepidoptera","Noctuidae","Trichoplusia","ni",98.7,"",NA,"","","genus","Trichoplusia"
+"296",">denovo227 S13_50128","OTU227","trifasciata","Araneae","Araneidae","BOLD:AAC3165","Arthropoda","Arachnida","Araneae","Araneidae","Argiope","trifasciata",99.36,"",NA,"","","species","trifasciata"
+"297",">denovo158 S51_1503","OTU158","turbinata","Araneae","Araneidae","","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",99.36,"",NA,"","","species","turbinata"
+"298",">denovo304 S33_9947","OTU304","turbinata","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",100,"",NA,"","","species","turbinata"
+"299",">denovo71 S33_52586","OTU71","turbinata","Araneae","Araneidae","BOLD:AAB0272","Arthropoda","Arachnida","Araneae","Araneidae","Cyclosa","turbinata",100,"",NA,"","","species","turbinata"
+"300","","OTU136","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"301","","OTU137","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"302","","OTU147","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"303","","OTU16","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"304","","OTU213","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"305","","OTU215","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"306","","OTU216","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"307","","OTU219","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"308","","OTU230","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"309","","OTU243","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"310","","OTU274","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"311","","OTU293","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"312","","OTU33","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"313","","OTU35","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"314","","OTU68","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"315","","OTU7","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"316","","OTU8","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"317","","OTU98","unknown","unknown","unknown","","","","","","","",NA,"",NA,"","bad match to both BOLD and NCBI databases","none",NA
+"318",">denovo101 S9_52971","OTU101","ursina","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",100,"EU119503.1",96,"Arthropoda, Insecta, Lepidoptera, Erebidae, grammia","","species","ursina"
+"319",">denovo307 S8_25","OTU307","ursina","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",100,"",NA,"","","species","ursina"
+"320",">denovo51 S8_4776","OTU51","ursina","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",100,"",NA,"","","species","ursina"
+"321",">denovo76 S11_1031","OTU76","ursina","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",99.35,"",NA,"","","species","ursina"
+"322",">denovo93 S5_48480","OTU93","ursina","Lepidoptera","Erebidae","BOLD:AAB9250","Arthropoda","Insecta","Lepidoptera","Erebidae","Grammia","ursina",100,"",NA,"","","species","ursina"
+"323",">denovo171 S42_31976","OTU171","vetusta","Lepidoptera","Erebidae","","Arthropoda","Insecta","Lepidoptera","Erebidae","Orgyia","vetusta",99.36,"",NA,"","","species","vetusta"
+"324",">denovo57 S42_18563","OTU57","Ypsolophidae","Lepidoptera","Ypsolophidae","BOLD:AAC7861","Arthropoda","Insecta","Lepidoptera","Ypsolophidae","Ypsolopha","scabrella",95.4,"KJ92257",89,"Arthropoda, Insecta, Lepidoptera, Tortricidae","","family",NA

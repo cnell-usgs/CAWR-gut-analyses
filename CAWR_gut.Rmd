@@ -1,0 +1,35 @@
+---
+title: "CAWR gut summary"
+author: "cnell"
+date: "June 14, 2016"
+output: html_document
+---
+
+
+
+```{r,loadpackage,echo=F,message=F}
+library(dplyr)
+library(ggplot2)
+library(shiny)
+```
+
+```{r,loaddata,echo=F,message=F}
+ids<-read.csv("/Users/colleennell/Documents/R/CAWR/CAWR_OTU_finalids.csv")###this is including bad matches 'unknown' ids
+samples<-read.csv("/Users/colleennell/Documents/R/CAWR/data/CAWR_samples.csv")##sample data frame
+guts<-read.csv("/Users/colleennell/Documents/R/CAWR_sample_ids.csv")##this is the above 2 combined with a few more cols
+
+```
+
+```{r,predataprep,echo=F,message=F}
+arth.matrix<-select(guts,starts_with("S"))
+taxa.ids<-select(guts,starts_with("Taxa."))
+
+
+```
+
+
+```{r, idstats,echo=FALSE}
+
+
+```
+
