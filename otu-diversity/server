@@ -1,0 +1,13 @@
+library(shiny)
+library(dplyr)
+library(reshape2)
+library(ggplot2)
+
+
+
+shinyServer(function(input, output) {
+  output$otuID<-renderPlot({
+    # create figure
+    
+  })
+})
