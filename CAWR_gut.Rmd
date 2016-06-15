@@ -1,16 +1,21 @@
----
-title: "CAWR gut summary"
+title: "CAWR Gut Contents"
 author: "cnell"
 date: "June 14, 2016"
-output: html_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: "simplex"
 ---
 
-
-
-```{r,loadpackage,echo=F,message=F}
+```{r,loadpackage,echo=F,message=F,warning=F}
 library(dplyr)
 library(ggplot2)
+library(reshape2)
+library(pander)
 library(shiny)
+library(DT)
+library(plotly)
 ```
 
 ```{r,loaddata,echo=F,message=F}
@@ -27,9 +32,111 @@ taxa.ids<-select(guts,starts_with("Taxa."))
 
 ```
 
+##**ID Results**  
 
-```{r, idstats,echo=FALSE}
+###Process  
+  1. Search sequence in BOLD (http://www.boldsystems.org/index.php/IDS_OpenIdEngine)  
+  2. Record top similarity match  
+  3. If matches with multiple IDs from different orders/families, search NCBI   
+  4. Look for consensus between databases  
+  5. For mixed results, choose conservative grouping for ID  
+  6. Unclear still, compare results to phylogenetic tree  
+  7. Delete OTU's with poor matches (below 85%, unable to determine order, non arthropod)   8. Rebuild tree and check IDs against  
+  
+  Taxonomic ID Resolution (Zeale et al, 2011):  
+  Species = 99.3%; Genus = 94.9%; Family = 91%; Order = 85.9%  
+    
+**Mean % similarity in BOLD database: `r round(mean(ids$Similarity.BOLD ,na.rm=T),digits=2)`  **
+
+  _However it should be considered whether these are conservative enough, some literature suggests >97.8% match to BOLD database_
+
+  
+###Taxonomy Table  
+'unknown' IDs were < 85.9% similarity to the database or conflicitng IDs at the order-level    
+```{r,filterids,echo=F,message=F}
+realid<-ids%>%
+  filter(Taxa.ID!='unknown')
+
+```
+`r length(realid$Taxa.ID)`  OTUs    
+`r length(unique(realid$Taxa.ID))` Unique taxa IDs   
+`r length(unique(realid$Taxa.Order))` Arthropod Orders: `r unique(realid$Taxa.Order)`   
+
+```{r, idtable,echo=FALSE,results='asis'}
+ids$Taxa.Genus<-as.factor(ifelse(ids$reso=='genus',paste(ids$Taxa.ID),
+                       ifelse(ids$reso=='species',paste(ids$GENUS),NA )))
+ids$Taxa.Sp<-as.factor(ifelse(ids$reso=='species',paste(ids$Taxa.ID),NA ))
+ids$Taxa.Family<-ifelse(ids$Taxa.Family=='unknown'| ids$Taxa.Family=='None',NA,paste(ids$Taxa.Family))
+
+id.table<-ids%>%
+  group_by(Taxa.ID,Taxa.Order,Taxa.Family,Taxa.Genus,Taxa.Sp)%>%
+  summarize(n_otu=length(OTU))
+
+taxon.table<-DT::datatable(id.table,extensions='Buttons',rownames=F,style='bootstrap',
+                           colnames=c('ID','Order','Family','Genus','Species','#OTUs'),
+                           options=list(order=list(5,'dsc'),scrollY="350px",scrollX=F,paging=F,dom='Bft',buttons=list('csv','copy')))
+taxon.table
 
 
 ```
+  
+###Sample Composition  
+
+```{r,idsbysample,echo=F,message=F,warning=F}
+sample.matrix<-select(guts,starts_with("S"))
+order<-guts$Taxa.Order
+sample.matrix<-cbind(order,sample.matrix)
+melted.mat<-melt(sample.matrix)
+melted.mat$value<-ifelse(melted.mat$value>0,1,0)
+melted.mat<-melted.mat%>%
+  group_by(order,variable)%>%
+  summarize(n_samps = sum(value))
+sample.matris.t<-dcast(melted.mat,variable~order)
+samps<-sample.matris.t[,1]
+rowsum<-rowSums(sample.matris.t[,-1])
+prop.mat<-mutate_each(sample.matris.t[,-1],funs(./rowsum*100))
+prop.mat<-cbind(samps,prop.mat)
+neword<-melt(prop.mat)
+
+x<-list(title = "Sample")
+y<-list(title="Arthropod Composition \n(% of OTUs)")
+m = list(
+  l = 50,
+  r = 50,
+  b = 100,
+  t = 100,
+  pad = 4
+)
+
+samp.comp<-ggplot(neword,aes(x=samps,y=value,fill=variable))+
+  geom_bar(color="black",stat="identity")+coord_flip()+theme_minimal()+labs(x="Sample",y="Arthropod Composition \n(% of OTUs)")+theme(panel.background = element_rect(fill = "transparent",colour = NA))+scale_fill_brewer(name="Order",palette = 'Spectral')
+                       
+s<-ggplotly(samp.comp)
+s2<-layout(s,xaxis=x,yaxis=y,autosize=F,width = 700, height = 450, margin = m)
+s2
+```
+
+###Sample Summary
+
+```{r,avgsamp,warning=F,message=F,echo=F}
+std <- function(x) sd(x)/sqrt(length(x))
+
+newsamp<-neword%>%
+  group_by(variable)%>%
+  summarize(avg.per = mean(value), se = std(value))
+
+
+avgplot<-ggplot(newsamp,aes(x=variable,y=avg.per,fill=variable))+
+  geom_bar(color="black",stat="identity")+
+  geom_errorbar(aes(ymin=avg.per-se,ymax=avg.per+se),width=.2)+
+  theme_minimal()+
+  theme(panel.background = element_rect(fill = "transparent",colour = NA),axis.text.x=element_text(angle=45))+
+  scale_fill_brewer(name="Order",palette = 'Spectral')+
+  labs(x="Order",y="Average Proportion of Diet")
+                                                                                           
+avgplot
+
+```
+
+
 
