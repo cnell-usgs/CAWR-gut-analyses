@@ -1,11 +1,11 @@
+---
 title: "CAWR Gut Contents"
 author: "cnell"
 date: "June 14, 2016"
 output: 
   html_document:
-    toc: true
-    toc_float: true
-    theme: "simplex"
+    toc: yes
+    toc_float: yes
 ---
 
 ```{r,loadpackage,echo=F,message=F,warning=F}
@@ -101,21 +101,40 @@ neword<-melt(prop.mat)
 x<-list(title = "Sample")
 y<-list(title="Arthropod Composition \n(% of OTUs)")
 m = list(
-  l = 50,
+  l = 70,
   r = 50,
-  b = 100,
-  t = 100,
-  pad = 4
+  b = 70,
+  t = 50,
+  pad = 14
 )
 
 samp.comp<-ggplot(neword,aes(x=samps,y=value,fill=variable))+
-  geom_bar(color="black",stat="identity")+coord_flip()+theme_minimal()+labs(x="Sample",y="Arthropod Composition \n(% of OTUs)")+theme(panel.background = element_rect(fill = "transparent",colour = NA))+scale_fill_brewer(name="Order",palette = 'Spectral')
+  geom_bar(color="black",stat="identity")+coord_flip()+theme_minimal()+labs(x=" ",y=" ")+theme(panel.background = element_rect(fill = "transparent",colour = NA))+scale_fill_brewer(name="Order",palette = 'Spectral')
                        
 s<-ggplotly(samp.comp)
-s2<-layout(s,xaxis=x,yaxis=y,autosize=F,width = 700, height = 450, margin = m)
+s2<-layout(s,xaxis=y,yaxis=x,autosize=F,width = 700, height = 700, margin = m)
 s2
 ```
-
+  
+      
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+ <br>
+<br>
+<br>
+<br>           
+              
+               
+               
+        
+        
 ###Sample Summary
 
 ```{r,avgsamp,warning=F,message=F,echo=F}
@@ -125,16 +144,26 @@ newsamp<-neword%>%
   group_by(variable)%>%
   summarize(avg.per = mean(value), se = std(value))
 
-
+x<-list(title = "Order")
+y<-list(title="Average Proportion of Diet")
+m = list(
+  l = 70,
+  r = 50,
+  b = 120,
+  t = 50,
+  pad = 14
+)
 avgplot<-ggplot(newsamp,aes(x=variable,y=avg.per,fill=variable))+
   geom_bar(color="black",stat="identity")+
   geom_errorbar(aes(ymin=avg.per-se,ymax=avg.per+se),width=.2)+
   theme_minimal()+
   theme(panel.background = element_rect(fill = "transparent",colour = NA),axis.text.x=element_text(angle=45))+
   scale_fill_brewer(name="Order",palette = 'Spectral')+
-  labs(x="Order",y="Average Proportion of Diet")
+  labs(x=" ",y=" ")
                                                                                            
-avgplot
+avgplots<-ggplotly(avgplot)
+t3<-layout(avgplots,xaxis=x,yaxis=y,autosize=F,width = 700, height = 500, margin = m)
+t3
 
 ```
 
